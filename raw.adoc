@@ -1,0 +1,51 @@
+== Hertz information from EDI airport versus Reality 
+
+We queued for 1 1/2 hours at Hertz car rental and were forced to take this car otherwise we would get no other car even though we had a prepaid reservation
+
+. Booked a fuel automatic "Kompaktklasse" (Kia Ceed or similar)
+.. Hertz: Upgrade to a brand-new polestar 2; because no other car left
+.. Reality: last car = no other option = take it or leave it = Downgrade !!! Size of the car doesn’t always mean upgrade. 
+. Range of car
+.. Claim by Hertz employee: At least 380 miles
+.. reality: Max. 240 miles (at 100% charge which is not recommended by polestar)
+. Age of car
+.. Claim by Hertz employee: Brand-new
+.. reality: Half year (9,339 miles on)
+. State of car
+.. Claim by Hertz employee: umdamaged
+.. reality: We ignored, a big mistake, the scratches on the rims as many previous experiences from Ireland showed us that this is not an issue (even with Hertz bookings) -> Hertz now send an invoice for 2 new rims. 
+. Charging
+.. Claim by Hertz employee: Not a problem in Scotland, even in the highlands. Just use the shell fob or scan the QR code.  Car will be full within 15-30 minutes	
+.. reality: We asked the employee 3 times if it is safe to go with an electric car into the highlands and were blatantly lied to with assurances that it’s “not a problem”. There is no shell station far and wide to use this given fob - therefore it’s useless to provide it. Web pay not working on most chargers ; many chargers broken and most chargers below 50kWh ; many even below 10kWh. SLOW chargers !  Charging for hours per day at locations far away from interesting anything because you have to take the working charger you can find (if you can find it). Only RFID cards working on many of the chargers. Hertz didn’t provide a chargescotland card that maybe would have helped at least a tiny bit. Driving around from one broken/non-useable charger to the next instead of enjoying Scotland, the highlands and visiting attractions. Because you need the battery to be filled up to get anywhere! It is impossible to tell from the map if the charger supports web pay even if it was recently used.  Spending money (40 GBP) for a ferry to get to a charging point on the Isle of Mull port that was broken too and not visiting anything because we had to get back on the next ferry to try to reach a slow charger with remaining battery level. Lots of calls with mobile phone to get to an operator to clarify situation at charging stations or to make them available through restart etc ; using up mobile data for loading websites; we had to re-arrange the planned route to match the vehicle conditions and had to re-arrange accommodations.  We missed most of our planned attractions to visit.  Charging car on household over night for max +35 % battery charging to get 84 miles (35% of 240 miles = 84 miles; instead of 35% of told 380 miles =  126 miles)
+. Customer service at Hertz
+.. Giving us a number on the contract that you can contact. The number is an automated loop that leads either back on itself or to a hang up unless reservation is selected. There is no service from hertz.  You are told to ring the number you just rang and then the automatic system hangs up. No calls returned even if we asked multiple times for them. Over the hotline for reservations because that’s the only line working in the menu. Assuerd by the reservations people that will pass the information on to the station to return a call. Zero calls returned. Web chat leads to: “call roadside assistance”. Zero service and zero help. You leave your customers sitting in trouble and don’t care !   Incompetency in giving information about opening hours for returning the car at Holyhead Port on Monday (28th Aug) - Both station and compound closed. Spending nearly an hour to get everything arranged to get rid of that car to reach our ferry. At least two other poeple tried to return cars during that time and stood confronted with similar issues.
+. Charge for returning to other site
+.. Claim by Hertz employee: 800 GBP; better to use train, bus or plane = good advice ???   	
+.. reality: 166.67 GBP (as reservation employee told us after we called Hertz again to arrange a reservation for EDI airport or Glasgow airport on Sunday to get another car that can be returned in Holyhead;  As both stations were closed on Sunday we had to drive the Polestar to Holyhead; due to no call back from Hertz and arranging a compromise with customer we had no chance to return the Polestar to EDI airport or Glasgow airport .  Threatened by Hertz EDI airport “You will return vehicle here or else you will be charged 800 GBP”
+. Return car at Holyhead port
+.. reality: All 4 places full ; office closed; no answer on phone on sign@station ; alternative Hertz compound locked, had to call harbour master to add license plate to white list to avoid towing: most chargers @port nonfunctional; only working one had to be remotely restarted
+. Additional driver for free (as offered in booking)
+.. reality: Charged for and said we have to claim it back from the broker as it is not an Hertz offering 	
+
+== Chargers
+
+. Holyhead
+.. Statement by harbour employee “You are lucky the other ones all don't work” ; parking fee 5 GBP for over 20 mins even on a charging parking space; system had to be rebooted  to work with VISA; call to the operator from mobile phone
+. Dunoon
+.. Pier charger blocked by rides & supermarket charger inoperative (genie point)
+. Colwyn Bay
+.. Charger@pier bppulse = not possible to activate without app. App only available in UK store. Very kind bppulse employee just activated it for us  for free.
+. Oban
+.. ALL Chargers near distillery no web pay. charger in port caused trouble but eventually worked after a friendly person with an EV, who also confirmed an electric car in Schottland is madness, badged us in to it also on his card because “you can’t give tourists an EV here that’s just cruelty!”
+. Tobermory
+.. Broken (no web pay); even we were told in Kilchoan port  by chargescotland employee it is working ; 40 GBP for ferry; no time at the Isle of Mull; pure stress for the family 
+. Port Kilchoan
+.. Nonfunctional charger (no web pay or just error)
+. Ardnamurchan Lighthouse
+.. Slow charger (map shows 20KW versus real = 7.4); charged for 1 1/4 hours to refill the car to get back the our guesthouse to get some dinner at least after traveling the day only searching for a working charging station to return with 3% left. 
+. Lancaster
+.. Found the first, and only, shell filling station with a charging station for electric vehicles on the route. Instead of 50 kWh only at 39 kWh ; shop told us it is Brand new and it wasn’t working properly so had to be slowed down. 
+
+== Conclusion
+Vacation in Scotland:: Had none; only trouble and a row of bad experiences; more costs caused by third parties; absolutely disappointing ; not to recommend; spending valuable vacation time spent hunting charge points and making calls and now writing Emails.
+		
