@@ -6,7 +6,7 @@
 :title-page:
 :data-uri:
 :allow-uri-read: true
-:doctype: book
+:doctype: article
 :book-flag: true
 :localdir: ./
 :imagesdir: {localdir}
