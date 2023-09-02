@@ -1,4 +1,19 @@
 = Hertz's Disastrous Service in Scotland - A Plea for Improvement
+:toc: right
+:sectnums:
+:sectnumlevels: 5
+:toclevels: 5
+:title-page:
+:data-uri:
+:allow-uri-read: true
+:doctype: book
+:book-flag: true
+:localdir: ./
+:imagesdir: {localdir}
+:source-highlighter: rouge
+:icons: font
+:!reproducible:
+:pdf-page-size: A4
 
 == Introduction
 
