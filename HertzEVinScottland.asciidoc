@@ -1,0 +1,113 @@
+= Hertz's Disastrous Service in Scotland - A Plea for Improvement
+
+== Introduction
+
+During our recent trip to Scotland, our experience with Hertz car rental was nothing short of a disaster. We encountered multiple issues, from misleading information to non-existent customer service. These issues not only reflect poorly on Hertz but also shed light on the challenges faced by tourists due to the inadequate charging infrastructure in Scotland. Here's a breakdown of our ordeal:
+
+== Car Rental Issues
+
+=== Reservation Nightmare
+
+We had a prepaid reservation, but upon arrival at the EDI airport, we were forced to wait for 1 1/2 hours at Hertz. We had booked a fuel automatic "Kompaktklasse" (Kia Ceed or similar) but got an EV. A "brand-new" polestar 2. We had no choice but to accept a different car because they claimed no other vehicles were available. This was a downgrade, not an upgrade.
+
+=== Additional driver for free (as offered in booking)
+
+Charged for and said we have to claim it back from the broker as it is not an Hertz offering.
+
+=== False Range Claim
+
+Hertz employees promised a minimum range of 380 miles for our vehicle, a Polestar 2. In reality, we could only manage a maximum of 240 miles on a full charge, and that's not recommended by Polestar.
+
+=== Misleading Car Age
+
+Hertz claimed our car was "brand new", but it turned out to be six months old with 9,339 miles on the odometer.
+
+=== Undisclosed Damages
+
+Despite scratches on the rims, Hertz assured us it was not an issue. We then ignored, a big mistake, the scratches on the rims as previous experience from Ireland showed us that this is not an issue (even with Hertz bookings) -> Hertz now sent an invoice for new rims. Should have taken a video but had to pick up our children. A costly mistake.
+
+=== Charging Nightmares
+
+False claim by Hertz employee: "Not a problem in Scotland, even in the highlands. Just use the shell fob or scan the QR code. Car will be full within 15-30 minutes." 
+
+[NOTE]
+====
+We found no part of the above statement to be true.
+====
+
+We asked the employee 3 times if it is wise to take an electric car into the highlands and were blatantly lied to with assurances that it's “not a problem”.
+
+Hertz did not provide a chargescotland card that maybe would have helped at least a tiny bit. We did ask! 
+
+We faced numerous issues with charging infrastructure, including broken chargers, slow charging speeds, and a lack of compatible cards/apps. We even spent money (38GBP) on a ferry to reach a charging point that was also broken and found not one charger above 50kw but many below. Many even below 10kWh. SLOW chargers! (plan an overnight stay at the charger or hitch a ride with your entire family). There is no shell station far and wide to use the given fob. It is impossible to tell from the map if a charger supports web pay even if it was recently used. Web pay not working on most chargers we found.
+
+Lots of calls with mobile phone to get to an operator to clarify situation at charging stations or to make them available through restart etc.
+
+Driving around from one broken/non-useable charger to the next instead of enjoying Scotland, the highlands and visiting attractions. Because you need the battery to be filled up to get anywhere!
+
+We missed most of our planned attractions to visit. Charging car on household over night for max +35 % battery charging to get 84 miles (35% of 240 miles = 84 miles; instead of 35% of told 380 miles =  126 miles).
+
+=== Customer Service Failure
+
+Hertz provided a contact number that led to an automated loop with no actual assistance. Calls were never returned, and web chat only directed us to "call roadside assistance." This left us stranded without support. The number is an automated loop that leads either back on itself or to a hang up unless reservation is selected and they promised multiple times to have us called back. We never got a single return call. Incompetency in giving information about opening hours for returning the car at Holyhead Port on Monday (28th Aug) - Both station and compound closed.
+
+=== Return Challenges
+
+We were charged 166.67 GBP for returning the car to Holyhead instead of the initially threatened 800 GBP. "You WILL retun the card here or you will be charged 800 Pounds". "You can take a train to Holyhead as that will be cheaper than the 800 Pounds". However, we had to drive to Holyhead because Hertz didn't offer alternatives or return calls.
+
+We spent nearly an hour to get everything arranged to get rid of that car to reach our ferry. At least two other poeple tried to return cars during that time and stood confronted with similar issues. Station and compound closed. No answer on the number given.
+
+All 4 Hertz parking spaces full so had to call harbour master to add license plate to white list to avoid towing and in additon most chargers at the port nonfunctional and the only working one had to be remotely restarted and had additional parking fees for over 20 minutes.
+
+== Chargers
+
+. Fort William
+.. Arrived on first day and parked at unoccupied charger of 3. Made multiple attempts with car connected first or last etc. before ringing charge place scottland to be told it doesn't work with web pay and to try one of the others. Both 50kw chargers taken so hooked up to AC and then later moved to one of the 50kw as it was freed up. As AC was slow, the ferry was out, and we had to make the accomodation before night we stopped charging on DC when we had enough to get us to the next charger the next day. Still hours wasted in a parking space between two supermarkets. Only saving grace was that we could buy food for a picknick as there was no longer any way to eat out as planned. Arrived very late at our accomodation.
+
+. Port Kilchoan
+.. Charger nonfunctional, no web pay, just errors. Told by a chargescotland employee to go to Tobermory. 38 GBP, return, for the ferry. 
+
+. Tobermory. 
+.. Charger broken, no web pay. No time on the Isle of Mull as next charger is slow. Family stress. 
+ 
+. Ardnamurchan Lighthouse
+.. Cafe closed as we arrived. Slow charger, promised 20KW, gave 7.4. 1 1/4 hours to recharge enough to get back, 3% battery left on return to accomodation after a day of searching for working chargers.
+
+. Oban
+.. Chargers near the distillery, no web payment. Charger at the port gave grief but a fellow EV driver lent a hand, stating owning an electric car in Scotland was madness. He let us in on his card, saying tourists shouldn't endure an EV here. Charged AC first then later DC when that finaly turned green.
+
+. Dunoon
+.. A charger at the pier blocked by rides. The supermarket charger, inert (Genie Point).
+
+. Lancaster
+.. The first Shell station with an EV charger on the route. 39 kWh instead of 50. Brand new, but not working properly so dialed down.
+
+. Colwyn Bay
+.. Charger at the pier, "bppulse." App-only activation via app in the UK store only. A helpful bppulse employee activated it, no charge. Charged over night, returned early to queue of 2 waiting cars.
+
+. Holyhead
+.. At Holyhead, we heard it plain and simple from a harbor worker: "You're lucky, all the rest don't work." A 5 GBP parking fee for 20 minutes in a designated charging spot. The system needed a remote reboot before working. Over 20 minutes on the phone with the operator just to get it started. It was easier to pay the parking online.
+
+. Diverse Broken Chargers
+.. Broken chargers everywhere. Lights, no lights, car refuses, activation won't work. Endless experiments, lost time and wasted charge.
+
+=== Summary
+
+Holyhead:: Multiple non-functional chargers, expensive parking fees, and system reboots required.
+Dunoon:: Pier charger blocked, supermarket charger inoperative.
+Colwyn Bay:: Charger required an app that was only available in the UK store.
+Oban:: Chargers near distillery did not support web pay, causing significant inconvenience.
+Tobermory:: Broken charger, ferry expenses, and time constraints.
+Port Kilchoan:: Nonfunctional charger with no web pay.
+Ardnamurchan Lighthouse:: Slow charger with lower capacity than advertised.
+Lancaster:: Shell filling station with a slower than advertised charger.
+Fort William:: 2 working chargers and one without web pay. Choose wisely.
+Others:: A mix of the above with added troubles like App not available for tourists and a gaggle of Apps to boot.
+
+== Conclusion
+
+Our vacation in Scotland turned into a series of problems and disappointments, largely due to Hertz's inadequate service and misleading information. However, it's crucial to acknowledge that the poor charging infrastructure in Scotland exacerbated our troubles. We call on both Hertz and the Scottish Tourism Board to address these issues. We strongly advise against using Hertz in Scotland and hope our ordeal serves as a cautionary tale for others planning their trips. Additionally, we implore the Scottish Tourism Board to invest in and improve the charging infrastructure to enhance the experience of electric vehicle tourists visiting this beautiful country. Scotland has immense potential as a tourist destination, but without adequate support for electric vehicles, it is driving away environmentally-conscious travelers. We Had guessed that it was safer to take a fuel car and were forced into driving EV. Our guess was far removed to what we met with.
+
+== Images from the trenches
+
+include::images.adoc[]

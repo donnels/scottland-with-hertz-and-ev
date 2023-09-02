@@ -17,7 +17,13 @@ If you see that don't try again and just ring the service desk and explain to th
 .Have seen this a lot too...
 image::./images/IMG_7723.jpg[]
 
-Just to add. When you see the above you will not be standing under a filling station roof. You will be standing in the cold, rain, sun, wind, dark, or whatever condition Scottland can provide and you may well be standing there for a long time fiddling with credit cards, phones, and charging cables. And don't forget to read the warnings about charging cables and heavy rain. Or phones and heavy rain. It's the reason I put the QR code in the pay and display clip to keep it dry. You may have company and if you do they will probably not have compliments to hand out about EV charging technology or EV cars in Scottland. Say something nice about Scottland, maybe mention the Edinburgh Tattoo or say that the highland games you visited (somewhat later than planned) were realy nice. There's no point wallowing in pain. And the one other thing you might not like when you open that lid is to see that the charging infrastructure has a cousin called signal strength. whatever you do don't have an empty phone. You might want a zip lock for the phone if it's not watertight.
+Just to add. When you see the above you will not be standing under a filling station roof. You will be standing in the cold, rain, sun, wind, dark, or whatever condition Scottland can provide and you may well be standing there for a long time fiddling with credit cards, phones, and charging cables. And don't forget to read the warnings about charging cables and heavy rain. Or phones and heavy rain. It's the reason I put the QR code in the pay and display clip to keep it dry. You may have company and if you do they will probably not have compliments to hand out about EV charging technology or EV cars in Scottland. Say something nice about Scottland, maybe mention the Edinburgh Tattoo or say that the highland games you visited (somewhat later than planned) were realy nice. There's no point wallowing in pain. And the one other thing you might not like when you open that lid is to see that the charging infrastructure has a cousin called signal strength. whatever you do don't have an empty phone. You might want a zip lock for the phone if it's not watertight. 
+
+[CAUTION]
+====
+Do NOT run out of mobile data when in the highlands (signal strength aside).
+You WILL use a lot of mobile data and you WILL make many calls.
+====
 
 .Ringing Hertz and going around in loops
 image::./images/IMG_0266.PNG[]
