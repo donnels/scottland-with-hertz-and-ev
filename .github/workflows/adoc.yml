@@ -1,5 +1,4 @@
 name: asciidoc pdf and html
-
 on:
   push:
     paths:
@@ -7,33 +6,21 @@ on:
       - '**.asciidoc'
       - '.github/workflows/adoc.yml'
     branches: [ "main" ]
-    # Publish semver tags as releases.
-    tags: [ 'v*.*.*' ]
   pull_request:
     branches: [ "main" ]
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-    env:
-      container_asciidoc: ghcr.io/donnels/asciidoc:main
-    
     steps:
       - uses: actions/checkout@v2
-
-      - name: Pull the containers required to build
-        id: pull-containers
-        run: |
-          #This really just makes the pull shorter if there are more than one to pull
-          docker pull $container_asciidoc &
-          wait
 
       - name: Make the PDFs and HTMLs
         id: asciidoc-2-html-and-pdf
         run: |
-          docker run -v "$PWD":/documents/ --name asciidoc-to-pdf $container_asciidoc asciidoctor-pdf -D /documents/docs *.asciidoc
-          docker run -v "$PWD":/documents/ --name asciidoc-to-html $container_asciidoc asciidoctor -D /documents/docs *.asciidoc
+          docker pull ghcr.io/donnels/asciidoc:main
+          docker run -v "$PWD":/documents/ --name asciidoc-to-pdf ghcr.io/donnels/asciidoc:main asciidoctor-pdf -D /documents/docs *.asciidoc
+          docker run -v "$PWD":/documents/ --name asciidoc-to-html ghcr.io/donnels/asciidoc:main asciidoctor -D /documents/docs *.asciidoc
 
       - name: Check for modified files
         id: git-check
