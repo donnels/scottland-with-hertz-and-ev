@@ -41,7 +41,7 @@ Hertz claimed our car was "brand new", but it turned out to be six months old wi
 
 Despite scratches on the rims, Hertz assured us it was not an issue. We then ignored, a big mistake, the scratches on the rims as previous experience from Ireland showed us that this is not an issue (even with Hertz bookings) -> Hertz now sent an invoice for new rims. Should have taken a video but had to pick up our children. A costly mistake.
 
-=== Charging Nightmares
+=== EV Charging Nightmares
 
 False claim by Hertz employee: "Not a problem in Scotland, even in the highlands. Just use the shell fob or scan the QR code. Car will be full within 15-30 minutes." 
 
@@ -75,6 +75,10 @@ We were charged 166.67 GBP for returning the car to Holyhead instead of the init
 We spent nearly an hour to get everything arranged to get rid of that car to reach our ferry. At least two other poeple tried to return cars during that time and stood confronted with similar issues. Station and compound closed. No answer on the number given.
 
 All 4 Hertz parking spaces full so had to call harbour master to add license plate to white list to avoid towing and in additon most chargers at the port nonfunctional and the only working one had to be remotely restarted and had additional parking fees for over 20 minutes.
+
+=== Billing threats
+
+We have been checking the mailbox since the rental for responses to our questions to Hertz and now have discovered a new low. Hertz has sent us a bill for charging (a guess) with just a summary price and no details of units charged or unit cost and have set the subject to "reminder for overdue charges". A reminder implies previous communications although there was none. Working in security one is often reminded to be wary of threatening mails sent out of context, setting a short deadline on nebulous costs with links in them. This is one. I can guess that it's from when I used the Shell fob at the lancaster filling station but there is no way to tell as there are no details and just threats that if I don't pay within the next two days it will be sent to debt collectors. The price also seems steep if it was for that. It seems you should also beware of Hertz's "we charge fair prices for charging" claims. The Hertz definition of fair seems to differ to mine but even so I'd pay if they can at least say what it is I'm paying for. It looks like I should have avoided the Shell fob at all costs as it just causes more trouble on top of sitting for a long tine (22% longer) at a filling station on a slower than advertised charger.
 
 == Chargers
 
